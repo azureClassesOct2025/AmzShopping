@@ -1,0 +1,11 @@
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\bin\Debug\net8.0\Marketplace.Contracts.deps.json
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\bin\Debug\net8.0\Marketplace.Contracts.dll
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\bin\Debug\net8.0\Marketplace.Contracts.pdb
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\obj\Debug\net8.0\Marketplace.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\obj\Debug\net8.0\Marketplace.Contracts.AssemblyInfoInputs.cache
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\obj\Debug\net8.0\Marketplace.Contracts.AssemblyInfo.cs
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\obj\Debug\net8.0\Marketplace.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\obj\Debug\net8.0\Marketplace.Contracts.dll
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\obj\Debug\net8.0\refint\Marketplace.Contracts.dll
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\obj\Debug\net8.0\Marketplace.Contracts.pdb
+C:\Users\Shashi\OneDrive\Desktop\Pawan Class\VBProject\src\Shared\Marketplace.Contracts\obj\Debug\net8.0\ref\Marketplace.Contracts.dll
