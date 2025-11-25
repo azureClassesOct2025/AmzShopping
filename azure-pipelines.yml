@@ -38,3 +38,10 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'Container'
 
+- task: AzureWebApp@1
+  inputs:
+    azureSubscription: 'AMZServiceConnection'
+    appName: 'shop-easy-app'
+    package: '$(System.DefaultWorkingDirectory)/**/*.zip'
+
+
